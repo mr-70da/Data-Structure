@@ -10,5 +10,5 @@ add_executable(Data_Structure
         SingleLinkedList/SingleLinkedLIst.cpp
         SingleLinkedList/SingleLinkedLIst.h
         main.cpp
-        CirculerlinkedList.cpp
+        CircularLinkedList/CirculerlinkedList.cpp
 )
