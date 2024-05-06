@@ -63,12 +63,19 @@ build CMakeFiles/Data_Structure.dir/main.cpp.obj: CXX_COMPILER__Data_Structure_u
   OBJECT_DIR = CMakeFiles\Data_Structure.dir
   OBJECT_FILE_DIR = CMakeFiles\Data_Structure.dir
 
-build CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj: CXX_COMPILER__Data_Structure_unscanned_Debug C$:/Users/001/Documents/GitHub/Data-Structure/CirculerlinkedList.cpp || cmake_object_order_depends_target_Data_Structure
-  DEP_FILE = CMakeFiles\Data_Structure.dir\CirculerlinkedList.cpp.obj.d
+build CMakeFiles/Data_Structure.dir/CircularLinkedList/CirculerlinkedList.cpp.obj: CXX_COMPILER__Data_Structure_unscanned_Debug C$:/Users/001/Documents/GitHub/Data-Structure/CircularLinkedList/CirculerlinkedList.cpp || cmake_object_order_depends_target_Data_Structure
+  DEP_FILE = CMakeFiles\Data_Structure.dir\CircularLinkedList\CirculerlinkedList.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/001/Documents/GitHub/Data-Structure/QuickSort -IC:/Users/001/Documents/GitHub/Data-Structure/SingleLinkedList
   OBJECT_DIR = CMakeFiles\Data_Structure.dir
-  OBJECT_FILE_DIR = CMakeFiles\Data_Structure.dir
+  OBJECT_FILE_DIR = CMakeFiles\Data_Structure.dir\CircularLinkedList
+
+build CMakeFiles/Data_Structure.dir/DoublyLinkedList/DoublyLinkedList.cpp.obj: CXX_COMPILER__Data_Structure_unscanned_Debug C$:/Users/001/Documents/GitHub/Data-Structure/DoublyLinkedList/DoublyLinkedList.cpp || cmake_object_order_depends_target_Data_Structure
+  DEP_FILE = CMakeFiles\Data_Structure.dir\DoublyLinkedList\DoublyLinkedList.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/001/Documents/GitHub/Data-Structure/QuickSort -IC:/Users/001/Documents/GitHub/Data-Structure/SingleLinkedList
+  OBJECT_DIR = CMakeFiles\Data_Structure.dir
+  OBJECT_FILE_DIR = CMakeFiles\Data_Structure.dir\DoublyLinkedList
 
 
 # =============================================================================
@@ -78,7 +85,7 @@ build CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj: CXX_COMPILER__Da
 #############################################
 # Link the executable Data_Structure.exe
 
-build Data_Structure.exe: CXX_EXECUTABLE_LINKER__Data_Structure_Debug CMakeFiles/Data_Structure.dir/SingleLinkedList/SingleLinkedLIst.cpp.obj CMakeFiles/Data_Structure.dir/main.cpp.obj CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj
+build Data_Structure.exe: CXX_EXECUTABLE_LINKER__Data_Structure_Debug CMakeFiles/Data_Structure.dir/SingleLinkedList/SingleLinkedLIst.cpp.obj CMakeFiles/Data_Structure.dir/main.cpp.obj CMakeFiles/Data_Structure.dir/CircularLinkedList/CirculerlinkedList.cpp.obj CMakeFiles/Data_Structure.dir/DoublyLinkedList/DoublyLinkedList.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Data_Structure.dir

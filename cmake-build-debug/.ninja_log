@@ -1,13 +1,13 @@
 # ninja log v5
-4	243	7364554390473018	CMakeFiles/Data_Structure.dir/QuickSort/Student.cpp.obj	f4e3164bc86f8ea6
 2	689	7364558369082230	CMakeFiles/Data_Structure.dir/main.cpp.obj	4d32f1e5fac6445f
+4	243	7364554390473018	CMakeFiles/Data_Structure.dir/QuickSort/Student.cpp.obj	f4e3164bc86f8ea6
 0	852	7364553145689350	CMakeFiles/Data_Structure.dir/SingleLinkedList/SingleLinkedLIst.cpp.obj	bb53c66136c32f78
-2	62	7364558167776215	build.ninja	b2f342e3c2277fbf
-220	278	7365368199477760	Data_Structure.exe	308f6d10ff1fec6a
-4	220	7365368198921512	CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj	4fb4f70e1fc29dc2
-4	238	7365368293305239	CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj	4fb4f70e1fc29dc2
-238	298	7365368293880343	Data_Structure.exe	308f6d10ff1fec6a
-4	230	7365368497869700	CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj	4fb4f70e1fc29dc2
-231	288	7365368498411314	Data_Structure.exe	308f6d10ff1fec6a
+2	62	7365377288679552	build.ninja	b2f342e3c2277fbf
+212	268	7367038466328685	Data_Structure.exe	c794aa9ac28ebfb5
 3	250	7365368653562267	CMakeFiles/Data_Structure.dir/CirculerlinkedList.cpp.obj	4fb4f70e1fc29dc2
-250	315	7365368654187485	Data_Structure.exe	308f6d10ff1fec6a
+4	211	7367038465799693	CMakeFiles/Data_Structure.dir/DoublyLinkedList/DoublyLinkedList.cpp.obj	81377ca4e4259468
+3	230	7365393587525025	CMakeFiles/Data_Structure.dir/CircularLinkedList/CirculerlinkedList.cpp.obj	cb69cd29be53f1f9
+3	242	7367039166442810	CMakeFiles/Data_Structure.dir/DoublyLinkedList/DoublyLinkedList.cpp.obj	81377ca4e4259468
+242	298	7367039166979594	Data_Structure.exe	c794aa9ac28ebfb5
+2	244	7367039403882317	CMakeFiles/Data_Structure.dir/DoublyLinkedList/DoublyLinkedList.cpp.obj	81377ca4e4259468
+244	305	7367039404464603	Data_Structure.exe	c794aa9ac28ebfb5

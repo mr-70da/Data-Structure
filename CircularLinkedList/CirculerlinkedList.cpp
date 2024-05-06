@@ -145,29 +145,29 @@ void CircularLinkedList::Insert(int index, int element) {
 }
 
 
-int main() {
-
-    int A[] = {1};
-
-    CircularLinkedList cl(A, 1);
-    cl.Insert(0, 2);
-    cl.Insert(0, 3);
-    cl.Insert(0, 4);
-    cl.Insert(0, 5);
-    cl.Insert(0, 6);
-    cl.Insert(0, 7);
-    cl.Display();
-    cout<<"Size = "<<cl.getSize()<<"\n";
-    cl.Delete(0);
-    cl.Delete(0);
-    cl.Delete(0);
-    cl.Delete(0);
-    cl.Delete(0);
-    cl.Delete(0);
-    cout<<cl.getSize()<<"\n";;
-    cl.Delete(0);
-    cout<<cl.getSize()<<"\n";
-    cl.Display();
-    cout<<cl.getSize()<<"\n";
-    return 0;
-}
+//int main() {
+//
+//    int A[] = {1};
+//
+//    CircularLinkedList cl(A, 1);
+//    cl.Insert(0, 2);
+//    cl.Insert(0, 3);
+//    cl.Insert(0, 4);
+//    cl.Insert(0, 5);
+//    cl.Insert(0, 6);
+//    cl.Insert(0, 7);
+//    cl.Display();
+//    cout<<"Size = "<<cl.getSize()<<"\n";
+//    cl.Delete(0);
+//    cl.Delete(0);
+//    cl.Delete(0);
+//    cl.Delete(0);
+//    cl.Delete(0);
+//    cl.Delete(0);
+//    cout<<cl.getSize()<<"\n";;
+//    cl.Delete(0);
+//    cout<<cl.getSize()<<"\n";
+//    cl.Display();
+//    cout<<cl.getSize()<<"\n";
+//    return 0;
+//}
